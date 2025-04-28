@@ -9,7 +9,7 @@ PostgreSQL
 
 
 Clone the repository:
-git clone https://github.com/yourusername/action-suggester-api.git
+git clone https://github.com/Vicky-57/Action-sug-API/
 cd action-suggester-api
 
 Create and activate a virtual environment:
